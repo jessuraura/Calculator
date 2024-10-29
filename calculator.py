@@ -1,11 +1,22 @@
 # Addition Method
 
+def add(x, y):
+    return x + y
+
+
 # Subtraction Method
+
+def subtract(x, y):
+    return x - y
+
 
 # Multiplication Method
 def multiply (x,y):
     return x * y
+  
 # Division Method
+def divide(x,y):
+    return x / y
 
 # Main Method
 print("Select operation:")
